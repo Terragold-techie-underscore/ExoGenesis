@@ -1,0 +1,26 @@
+{
+  "type": "CoreBlock",
+  "health": 9870,
+  "size": 7,
+  "itemCapacity": 19500,
+  "unitCapModifier": 30,
+  "researchCostMultiplier": 0.06,
+  "unitType": "stormfront-ruler",
+  "requirements": [
+    {
+      "item": "silicon",
+      "amount": 2500
+    },
+    {
+      "item": "alpha-yellow",
+      "amount": 1200
+    },
+    {
+      "item": "oltuxium",
+      "amount": 140
+    }
+  ],
+  "envRequired": 0,
+  "category": "effect",
+  "research": "divinity-core"
+}
